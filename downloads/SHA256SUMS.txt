@@ -1,0 +1,5 @@
+00e75ce833923a25f96faeae48d1140753c984a4487965028481fbbfc48cf7b2  DigitalBE-Client-Group-Loans-v1.0.0-rc.1-Install.zip
+0b515d8ed358043391e2e218f48d4b9d4dfc282ba4f254b37a399bf7b28001b8  DigitalBE-Client-Group-Loans-v1.0.0-rc.1-Source.zip
+e4ce271d4c439c9d0cfeae6cefbdf96a1f5f2e990f2a417463bd202b2a933503  DigitalBE-Client-Group-Loans-Project-Plan.md
+86ea7d4a86541acb3aab95285480f5e6ed7ea3a631812fce78eab9be2cc4a88c  DigitalBE-Client-Group-Loans-Installation-Guide.md
+904eeff6408c277be7f4060d4eac45d8edac9688a7c0322714041ca30604b99f  DigitalBE-Client-Group-Loans-v1.0.0-rc.1-Complete-Download.zip
